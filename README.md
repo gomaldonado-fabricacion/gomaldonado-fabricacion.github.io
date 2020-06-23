@@ -1,6 +1,6 @@
-# Tema Hugo - Taller Ciudad Espacio
+# Tema Hugo - Fabricación
 
-Este tema se construyó para documentar los trabajos y encargos de los alumnos del Taller de Espacio y Ciudad. Está creado en base al Framework Hugo basado en el tema Whisper de Zerostatic Themes. El diseño y la funcionalidad son intencionalmente mínimos.
+Este tema se construyó para documentar los trabajos y encargos de los alumnos de Fabricación digital. Está creado en base al Framework Hugo basado en el tema Whisper de Zerostatic Themes. El diseño y la funcionalidad son intencionalmente mínimos.
 
 [Demo Sitio Taller Ciudad Espacio](https://taller-ciudad-espacio2020.github.io/tema/)
 
