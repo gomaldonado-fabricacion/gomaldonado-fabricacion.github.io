@@ -2,7 +2,7 @@
 
 Este tema se construyó para documentar los trabajos y encargos de los alumnos de Fabricación digital. Está creado en base al Framework Hugo basado en el tema Whisper de Zerostatic Themes. El diseño y la funcionalidad son intencionalmente mínimos.
 
-[Demo Sitio Taller Ciudad Espacio](https://taller-ciudad-espacio2020.github.io/tema/)
+[Demo Sitio Fabricación Digital](https://tallerfabricacion.github.io/temaBlack/)
 
 <p align="center">
   <img  src="/intro.jpg">
