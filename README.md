@@ -5,7 +5,7 @@ Este tema se construyó para documentar los trabajos y encargos de los alumnos d
 [Demo Sitio Taller Ciudad Espacio](https://taller-ciudad-espacio2020.github.io/tema/)
 
 <p align="center">
-  <img  src="/ss-tema-taller.png">
+  <img  src="/intro.jpg">
 </p>
 
 Tema basado en theme oficial Hugo Whisper. Copyright (c) Robert Austin - rob@jugglerdigital.com - github.com/JugglerX
