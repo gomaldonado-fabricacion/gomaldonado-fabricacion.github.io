@@ -1,6 +1,6 @@
-baseURL = "https://gomaldonado-fabricacion.github.io"
+baseURL = "https://tallerfabricacion.github.io/temaBlack/"
 languageCode = "en-us"
-title = "Gonzalo Maldonado (Fabricación)"
+title = "Nombre Alumno"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
 
