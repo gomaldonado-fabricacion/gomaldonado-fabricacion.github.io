@@ -39,21 +39,39 @@
     </item>
     
     <item>
-      <title>Configuración</title>
-      <link>https://gomaldonado-fabricacion.github.io/docs/configuracion/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://gomaldonado-fabricacion.github.io/docs/configuracion/</guid>
-      <description>Tutorial de configuración básica del menú y otros elementos del tema.</description>
-    </item>
-    
-    <item>
       <title>04 Matriz para Macetero</title>
       <link>https://gomaldonado-fabricacion.github.io/docs/04-grupal/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://gomaldonado-fabricacion.github.io/docs/04-grupal/</guid>
       <description>Investigación en Materiales y Modelamiento de una Matriz para imprimir.</description>
+    </item>
+    
+    <item>
+      <title>05 Examen Parte I</title>
+      <link>https://gomaldonado-fabricacion.github.io/docs/05-examen-1/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://gomaldonado-fabricacion.github.io/docs/05-examen-1/</guid>
+      <description>Examen:Materiales y Procesos</description>
+    </item>
+    
+    <item>
+      <title>Objetivos del Curso</title>
+      <link>https://gomaldonado-fabricacion.github.io/docs/objetivos/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://gomaldonado-fabricacion.github.io/docs/objetivos/</guid>
+      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
+    </item>
+    
+    <item>
+      <title>Configuración</title>
+      <link>https://gomaldonado-fabricacion.github.io/docs/configuracion/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://gomaldonado-fabricacion.github.io/docs/configuracion/</guid>
+      <description>Tutorial de configuración básica del menú y otros elementos del tema.</description>
     </item>
     
     <item>
@@ -81,15 +99,6 @@
       
       <guid>https://gomaldonado-fabricacion.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
-    </item>
-    
-    <item>
-      <title>Objetivos del Curso</title>
-      <link>https://gomaldonado-fabricacion.github.io/docs/objetivos/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://gomaldonado-fabricacion.github.io/docs/objetivos/</guid>
-      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
     </item>
     
   </channel>
